@@ -1,0 +1,16 @@
+
+DEFINE cdsDefTechLib $CDS_INST_DIR/tools/dfII/etc/cdsDefTechLib
+DEFINE basic $CDS_INST_DIR/tools/dfII/etc/cdslib/basic
+DEFINE designFlow $CDS_INST_DIR/tools/dfII/etc/amDFlow/designFlow
+DEFINE analogLib $CDS_INST_DIR/tools/dfII/etc/cdslib/artist/analogLib
+
+
+DEFINE _cmcpads $CDS_INST_DIR/tools/dfII/local/lib/cmosis5/shadow/_cmcpads
+DEFINE cmcpads $CDS_INST_DIR/tools/dfII/local/lib/cmosis5/cmcpads
+DEFINE cmosis5 $CDS_INST_DIR/tools/dfII/local/lib/cmosis5/cmosis5
+DEFINE _hcells $CDS_INST_DIR/tools/dfII/local/lib/cmosis5/shadow/_hcells
+DEFINE hcells $CDS_INST_DIR/tools/dfII/local/lib/cmosis5/hcells
+DEFINE _mosispads $CDS_INST_DIR/tools/dfII/local/lib/cmosis5/shadow/_mosispads
+DEFINE mosispads $CDS_INST_DIR/tools/dfII/local/lib/cmosis5/mosispads
+DEFINE package $CDS_INST_DIR/tools/dfII/local/lib/package/package
+DEFINE FULL_ADDER /nfs/home/g/g_karra/Project_Full_Adder/FULL_ADDER

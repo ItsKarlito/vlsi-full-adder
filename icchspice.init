@@ -1,0 +1,15 @@
+* Canadian Microelectronics Corporation
+* CMOSIS5 Design Kit V2.2 for Cadence Analog Artist
+
+* Select only one model set at a time.
+* Select only one model set at a time.
+* Select only one model set at a time.
+
+.LIB '/CMC/kits/icchspice/cmosis5.level3' n5bo
+
+* .LIB '/CMC/kits/icchspice/cmosis5.level13' n5bo
+* .LIB '/CMC/kits/icchspice/cmosis5.level39.nom' v4
+* .LIB '/CMC/kits/icchspice/cmosis5.level39.fast' v4
+* .LIB '/CMC/kits/icchspice/cmosis5.level39.slow' v4
+* .LIB '/CMC/kits/icchspice/cmosis5.level39.ltran' v4
+* .LIB '/CMC/kits/icchspice/cmosis5.level39.rtran' v4

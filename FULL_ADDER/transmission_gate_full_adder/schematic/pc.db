@@ -1,0 +1,57 @@
+#
+analogLib vpulse symbol
+V3
+V1
+V0
+#
+analogLib vdc symbol
+V2
+#
+cmosis5 tiedown symbol
+I0
+#
+cmosis5 pmos symbol
+M14
+M13
+M8
+M7
+M10
+M4
+M2
+M1
+#
+cmosis5 nmos symbol
+M16
+M15
+M11
+M12
+M9
+M3
+M5
+M0
+#ISCELL
+basic iopin symbolr
+PIN23
+PIN22
+PIN21
+PIN18
+PIN17
+PIN14
+PIN13
+PIN12
+PIN0
+PIN1
+PIN4
+PIN3
+PIN5
+PIN6
+PIN2
+#ISCELL
+basic ipin symbol
+PIN9
+PIN8
+PIN7
+#ISCELL
+basic opin symbol
+PIN10
+PIN11
