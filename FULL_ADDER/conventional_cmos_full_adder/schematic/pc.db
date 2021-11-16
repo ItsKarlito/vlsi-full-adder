@@ -1,4 +1,9 @@
 #
+cmosis5 vpulse symbol
+V1
+V3
+V2
+#
 cmosis5 vdc symbol
 V0
 #
@@ -38,7 +43,12 @@ M1
 M0
 #ISCELL
 basic iopin symbolr
-PIN50
+PIN56
+PIN52
+PIN55
+PIN54
+PIN53
+PIN51
 PIN40
 PIN41
 PIN42
@@ -50,6 +60,7 @@ PIN47
 PIN49
 PIN31
 PIN48
+PIN50
 PIN18
 PIN17
 PIN14
