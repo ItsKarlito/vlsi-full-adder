@@ -1,8 +1,8 @@
 #
-analogLib vpulse symbol
-V3
-V1
-V0
+analogLib vbit symbol
+V4
+V5
+V6
 #
 analogLib vdc symbol
 V2
@@ -31,14 +31,14 @@ M5
 M0
 #ISCELL
 basic iopin symbolr
-PIN23
 PIN22
+PIN23
+PIN14
+PIN12
+PIN13
+PIN17
 PIN21
 PIN18
-PIN17
-PIN14
-PIN13
-PIN12
 PIN0
 PIN1
 PIN4

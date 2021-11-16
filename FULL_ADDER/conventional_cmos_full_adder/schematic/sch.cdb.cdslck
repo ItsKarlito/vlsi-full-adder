@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      k_noory
+HostName                       awareness.encs.concordia.ca
+ProcessIdentifier              1117
+ProcessCreationTime_UTC        1637021264
+ProcessCreationTime_Readable   Mon Nov 15 19:07:44 2021 EST
+AppIdentifier                  /CMC/tools/cadence/IC/tools/dfII/bin/icfb.exe
+OSType                         lnx86
+ReasonForPlacingEditLock       XXopen upgrade lock
+FilePathUsedToEditLock         /nfs/home/k/k_noory/COEN451/vlsi-full-adder/FULL_ADDER/conventional_cmos_full_adder/schematic/sch.cdb
+TimeEditLocked                 Mon Nov 15 19:08:13 2021 EST
