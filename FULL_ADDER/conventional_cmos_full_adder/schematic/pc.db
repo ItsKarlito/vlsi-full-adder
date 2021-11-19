@@ -1,16 +1,10 @@
 #
 cmosis5 vpulse symbol
 V1
-V3
 V2
+V3
 #
-cmosis5 vdc symbol
-V0
-#
-cmosis5 tiedown symbol
-I0
-#
-cmosis5 nmos symbol
+cmosis5 nfet symbol
 M26
 M25
 M24
@@ -26,7 +20,7 @@ M15
 M14
 M13
 #
-cmosis5 pmos symbol
+cmosis5 pfet symbol
 M27
 M12
 M11
@@ -41,13 +35,19 @@ M3
 M2
 M1
 M0
+#
+cmosis5 vdc symbol
+V0
+#
+cmosis5 tiedown symbol
+I0
 #ISCELL
 basic iopin symbolr
-PIN56
-PIN52
-PIN55
-PIN54
-PIN53
+PIN73
+PIN72
+PIN71
+PIN70
+PIN69
 PIN51
 PIN40
 PIN41
@@ -57,7 +57,12 @@ PIN44
 PIN45
 PIN46
 PIN47
+PIN52
+PIN53
+PIN54
+PIN55
 PIN49
+PIN56
 PIN31
 PIN48
 PIN50
@@ -79,7 +84,11 @@ PIN3
 PIN2
 PIN1
 PIN0
+PIN65
+PIN66
 PIN32
+PIN67
+PIN68
 PIN24
 PIN35
 PIN36

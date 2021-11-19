@@ -1,13 +1,10 @@
 #
-cmosis5 vdc symbol
-V2
-#
 cmosis5 vpulse symbol
-V0
-V3
 V1
+V3
+V0
 #
-cmosis5 pmos symbol
+cmosis5 pfet symbol
 M14
 M13
 M8
@@ -17,7 +14,8 @@ M4
 M2
 M1
 #
-cmosis5 nmos symbol
+cmosis5 nfet symbol
+M0
 M16
 M15
 M11
@@ -25,19 +23,52 @@ M12
 M9
 M3
 M5
-M0
+#
+analogLib vdc symbol
+V2
+#
+cmosis5 tiedown symbol
+I0
 #ISCELL
 basic iopin symbolr
-PIN24
-PIN27
-PIN25
-PIN26
+PIN38
+PIN40
+PIN39
+PIN41
+PIN29
 PIN28
+PIN25
+PIN22
+PIN24
+PIN23
+PIN14
+PIN32
+PIN26
+PIN12
+PIN13
+PIN17
+PIN21
+PIN18
+PIN31
+PIN35
+PIN34
+PIN33
+PIN30
+PIN0
+PIN1
+PIN4
+PIN3
+PIN36
+PIN5
+PIN6
+PIN2
+PIN37
 #ISCELL
-analogLib gnd symbol
-I5
-I7
-I4
-I6
-I2
-I3
+basic ipin symbol
+PIN9
+PIN8
+PIN7
+#ISCELL
+basic opin symbol
+PIN10
+PIN11
