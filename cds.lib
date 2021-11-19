@@ -1,3 +1,7 @@
+-- File Created by Karl Noory at Thu Nov 18 23:18:39 2021
+-- assisted by CdsLibEditor
+-- File Created by Karl Noory at Thu Nov 18 23:16:50 2021
+-- assisted by CdsLibEditor
 
 DEFINE cdsDefTechLib $CDS_INST_DIR/tools/dfII/etc/cdsDefTechLib
 DEFINE basic $CDS_INST_DIR/tools/dfII/etc/cdslib/basic
