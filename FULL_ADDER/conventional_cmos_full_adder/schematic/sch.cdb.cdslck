@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      g_karra
+HostName                       orwell.encs.concordia.ca
+ProcessIdentifier              26304
+ProcessCreationTime_UTC        1638050212
+ProcessCreationTime_Readable   Sat Nov 27 16:56:52 2021 EST
+AppIdentifier                  /CMC/tools/cadence/IC/tools/dfII/bin/icfb.exe
+OSType                         lnx86
+ReasonForPlacingEditLock       XXsave write lock
+FilePathUsedToEditLock         /nfs/home/g/g_karra/vlsi-full-adder/FULL_ADDER/conventional_cmos_full_adder/schematic/sch.cdb
+TimeEditLocked                 Sat Nov 27 19:46:10 2021 EST

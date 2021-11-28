@@ -1,4 +1,8 @@
 #
+cmosis5 capacitor symbol
+C1
+C0
+#
 cmosis5 vpulse symbol
 V1
 V3
@@ -28,6 +32,8 @@ analogLib vdc symbol
 V2
 #
 cmosis5 tiedown symbol
+I2
+I1
 I0
 #ISCELL
 basic iopin symbolr
