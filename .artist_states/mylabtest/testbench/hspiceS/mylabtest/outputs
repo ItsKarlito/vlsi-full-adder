@@ -1,0 +1,87 @@
+_outputList = nil
+ _envSaveOptions = nil
+savedComponent = (let
+(tmp1 tmp2)
+(unless tmp1
+tmp1 = make_sevOutputStruct()
+)
+(unless tmp1
+tmp1 = (ncons nil)
+)
+tmp1->inLastSet = nil
+tmp1->name = nil
+tmp1->expression = nil
+tmp1->signal = "/OUT"
+tmp1->type = 'net
+tmp1->selectionDetail = (let
+(tmp1)
+tmp1 = (let
+(tmp1 tmp2)
+tmp1 = 'color
+tmp2 = (let
+(tmp1 tmp2)
+tmp1 = "y2"
+tmp2 = "drawing"
+list(tmp1 tmp2)
+)
+list(tmp1 tmp2)
+)
+list(tmp1)
+)
+tmp1->value = nil
+tmp1->plot = 't
+tmp1->save = nil
+tmp1->march = nil
+tmp1->index = 1
+(unless tmp2
+tmp2 = make_sevOutputStruct()
+)
+(unless tmp2
+tmp2 = (ncons nil)
+)
+tmp2->inLastSet = nil
+tmp2->name = nil
+tmp2->expression = nil
+tmp2->signal = "/IN"
+tmp2->type = 'net
+tmp2->selectionDetail = (let
+(tmp1)
+tmp1 = (let
+(tmp1 tmp2)
+tmp1 = 'color
+tmp2 = (let
+(tmp1 tmp2)
+tmp1 = "y3"
+tmp2 = "drawing"
+list(tmp1 tmp2)
+)
+list(tmp1 tmp2)
+)
+list(tmp1)
+)
+tmp2->value = nil
+tmp2->plot = 't
+tmp2->save = nil
+tmp2->march = nil
+tmp2->index = 2
+list(tmp1 tmp2)
+)
+_outputList = nconc( _outputList savedComponent) 
+_envSaveOptions = (let
+(tmp1 tmp2)
+tmp1 = (let
+(tmp1 tmp2)
+tmp1 = 'allAnalogTC
+list(tmp1 tmp2)
+)
+tmp2 = (let
+(tmp1 tmp2)
+tmp1 = 'allAnalogNV
+tmp2 = 't
+list(tmp1 tmp2)
+)
+list(tmp1 tmp2)
+)
+savedComponent = list( _outputList _envSaveOptions ) 
+_outputList = 'unbound
+ _envSaveOptions = 'unbound

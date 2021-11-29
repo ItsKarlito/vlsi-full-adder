@@ -1,0 +1,5 @@
+analysis(tran fields delmax) ""
+analysis(tran fields by) "10p"
+analysis(tran fields to) "80n"
+analysis(tran fields from) "0"
+analysis(tran fields enable) (t)

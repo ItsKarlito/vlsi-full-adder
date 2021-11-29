@@ -1,0 +1,14 @@
+(envOpts generateMapFile) nil
+(envOpts includeFile) "/nfs/home/k/k_noory/COEN451/vlsi-full-adder/icchspice.init"
+(envOpts initFile) ""
+(envOpts printComments) nil
+(envOpts netlistType) "hierarchical"
+(envOpts instStopListTable) ""
+(envOpts switchViewList) ("hspiceS" "spice" "cmos_sch" "cmos.sch" "extracted" "schematic")
+(envOpts stimulusFile) ""
+(envOpts updateFile) ""
+(envOpts reNetlist) nil
+(envOpts includeSyntax) "cdsSpice"
+(envOpts instViewListTable) ""
+(envOpts doInstBased) nil
+(envOpts stopViewList) ("hspiceS" "spice")

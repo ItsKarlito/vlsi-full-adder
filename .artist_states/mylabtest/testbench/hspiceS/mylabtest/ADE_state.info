@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("mylabtest" "testbench" "schematic" "hspiceS")
+descriptionText = "None"

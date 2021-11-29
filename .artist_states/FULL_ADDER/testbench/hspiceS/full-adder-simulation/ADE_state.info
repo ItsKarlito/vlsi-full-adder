@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("FULL_ADDER" "testbench" "schematic" "hspiceS")
+descriptionText = "None"

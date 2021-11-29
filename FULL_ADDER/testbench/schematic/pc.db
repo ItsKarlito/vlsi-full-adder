@@ -1,0 +1,31 @@
+#
+cmosis5 vpulse symbol
+V3
+V1
+V0
+#
+cmosis5 tiedown symbol
+I1
+#
+analogLib vdc symbol
+V2
+#
+FULL_ADDER transmission_gate_full_adder symbol
+I0
+#ISCELL
+basic iopin symbolr
+PIN23
+PIN22
+PIN6
+PIN5
+PIN4
+PIN3
+PIN18
+PIN21
+PIN17
+PIN14
+PIN2
+PIN1
+PIN0
+PIN13
+PIN12
