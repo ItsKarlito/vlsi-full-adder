@@ -1,0 +1,54 @@
+\o Program:		@(#)$CDS: libManager.exe version Exp 01/19/2010 20:09 (ocelot-linux) $
+\o Sub version:		sub-version none
+\o Arguments:		-mpssession icfb10482 -mpshost orwell.encs.concordia.ca 
+\o Working Directory:	orwell.encs.concordia.ca:/nfs/home/g/g_karra/vlsi-full-adder
+\o Extended color mode (TrueColor 32 0x43) in use.
+\o Warning: The directory: '/nfs/sw_cmc/x86_64.EL7/tools/cadence.2011a/IC_51.41.151_lnx86/tools.lnx86/dfII/etc/amDFlow/designFlow' does not exist
+\o 	but was defined in libFile '/nfs/home/g/g_karra/vlsi-full-adder/cds.lib' for Lib 'designFlow'.
+\o Log file is "/nfs/home/g/g_karra/vlsi-full-adder/libManager.log.15434".
+Opening libManager window.
+No main selection
+\o Library Manager customization server connected.
+MPS service: map window
+Main selection: FULL_ADDER transmission_gate_full_adder extracted
+Invoking command (editDelete).
+Showing dialog "Delete CellViews" (deleteDialog).
+Closing dialog "Delete CellViews" (deleteDialog).
+Main selection: FULL_ADDER transmission_gate_full_adder schematic-full-adder
+\o Opening design file through session server.
+MPS request: edit design
+\o Opening design file through session server.
+MPS request: edit design
+\o Warning: The directory: '/nfs/sw_cmc/x86_64.EL7/tools/cadence.2011a/IC_51.41.151_lnx86/tools.lnx86/dfII/etc/amDFlow/designFlow' does not exist
+\o 	but was defined in libFile '/nfs/home/g/g_karra/vlsi-full-adder/cds.lib' for Lib 'designFlow'.
+MPS request: update library list
+Main selection: FULL_ADDER transmission_gate_full-adder
+\o Auto refresh applied.
+\o Warning: The directory: '/nfs/sw_cmc/x86_64.EL7/tools/cadence.2011a/IC_51.41.151_lnx86/tools.lnx86/dfII/etc/amDFlow/designFlow' does not exist
+\o 	but was defined in libFile '/nfs/home/g/g_karra/vlsi-full-adder/cds.lib' for Lib 'designFlow'.
+Main selection: FULL_ADDER transmission_gate_full_adder extracted
+Invoking command (editDelete).
+Showing dialog "Delete CellViews" (deleteDialog).
+Dialog activated Ok in "Delete CellViews" (deleteDialog).
+Showing dialog "Delete Confirmation" (genericDialog).
+\o Remove 2 cell views from disk?
+\o 
+\o Library: FULL_ADDER
+\o      Cell: transmission_gate_full_adder
+\o  Views: extracted
+\o             schematic-full-adder
+Dialog activated Yes in "Delete Confirmation" (genericDialog).
+Closing dialog "Delete Confirmation" (genericDialog).
+\o Deleting 2 views from cell "transmission_gate_full_adder" in library "FULL_ADDER".
+Showing dialog "Deleting Files" (tdmWorkingDialog).
+\o Deleting view "schematic-full-adder".
+\o Deleted cellview 'FULL_ADDER/transmission_gate_full_adder/schematic-full-adder'.
+\o Deleting view "extracted".
+\o Deleted cellview 'FULL_ADDER/transmission_gate_full_adder/extracted'.
+\o Warning: The directory: '/nfs/sw_cmc/x86_64.EL7/tools/cadence.2011a/IC_51.41.151_lnx86/tools.lnx86/dfII/etc/amDFlow/designFlow' does not exist
+\o 	but was defined in libFile '/nfs/home/g/g_karra/vlsi-full-adder/cds.lib' for Lib 'designFlow'.
+Main selection: FULL_ADDER transmission_gate_full_adder
+Closing dialog "Deleting Files" (tdmWorkingDialog).
+\o Deletion of 2 views done.
+Closing dialog "Delete CellViews" (deleteDialog).
+\o libManager is exiting.

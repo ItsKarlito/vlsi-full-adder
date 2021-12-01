@@ -1,9 +1,12 @@
 #ISCELL
 cmosis5 metal1_T symbolic
 I7
-I6
 I5
 I4
+I6
 I3
 I2
 I1
+#ISCELL
+hcells M2_M1 symbolic
+I8
